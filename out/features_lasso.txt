@@ -1,0 +1,6 @@
+Tryptophan
+Neutrophils_(%)
+Aspartic_acid
+LysoPC_a_C26:0
+LysoPC_a_C14:0
+LysoPC_a_C18:2

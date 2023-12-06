@@ -1,0 +1,5 @@
+,boruta,forward,genetic,lasso
+SVC,0.52,0.8,0.52,0.72
+RandomForestClassifier,0.8,0.88,0.8,0.68
+GaussianNB,0.92,0.92,0.92,0.8
+LogisticRegression,0.68,0.88,0.76,0.8
